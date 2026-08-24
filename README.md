@@ -1,4 +1,4 @@
-# astrocyte-calcium-pipeline
+# Astrocyte Imaging Pipeline
 
 Post-processing pipeline for astrocyte calcium imaging data exported from [AQuA2](https://github.com/yu-lab-vt/AQuA2). Handles per-slice normalization, quantile regression, and visualization across experimental groups.
 
