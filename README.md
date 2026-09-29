@@ -11,8 +11,8 @@ to test how **psilocybin** alters astrocyte signaling in wild-type, 5-HT2A-antag
 - Psilocybin increased astrocyte **integrated calcium signal by 25%** and **event
   duration by 20%** (both P < 0.001).
 - Both effects were **abolished in IP3R2 knockouts** (P < 0.01 vs WT).
-- **5-HT2A blockade** trended in the same direction but did not differ
-  significantly from WT.
+- **5-HT2A blockade** trended toward attenuation but
+did not differ significantly from WT.
 
 | Parameter | WT (n = 10) | AV (n = 8) | IP (n = 6) | AV − WT | IP − WT |
 |---|---|---|---|---|---|
