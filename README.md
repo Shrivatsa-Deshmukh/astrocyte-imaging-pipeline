@@ -1,6 +1,6 @@
 # Astrocyte Imaging Pipeline
 
-> **Work in progress.** The analysis and results below are preliminary and may change.
+> **Work in progress.** The analysis and results below are preliminary.
 
 Analysis of AQuA2-segmented astrocyte calcium imaging (3,008 events, 48 recordings)
 to test how **psilocybin** alters astrocyte signaling in wild-type, 5-HT2A-antagonist
